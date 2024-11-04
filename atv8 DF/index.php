@@ -1,6 +1,6 @@
 <?php
 // Inicializar mensagem
-$mensagem = "";
+$mensagem = "Boas-vindas!";
 
 // Verificando se o formulário foi enviado
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
